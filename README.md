@@ -1,11 +1,11 @@
 ### Hello World, I'm Seth 👋
 
-## I'm a: 
-- recent Software Development graduate from WGU 
-- former IT Technician 
+## I am : 
+- a recent Software Development graduate from WGU 
+- a former IT Technician 
 - **your next Software Engineer**
 
-## I'm currently:
+## I'm currently :
 - 👯 searching for an entry Software Engineer position
 - 🔭 working on the AWS CSAA certification and am brushing up on my DS & Algorithm knowledge
 
