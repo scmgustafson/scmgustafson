@@ -1,16 +1,14 @@
 ### Hello World, I'm Seth 👋
 
 ## I am: 
-- a recent Software Development graduate from WGU 
 - a former IT Technician 
-- a DevOps engineer
+- a current DevOps engineer
 
 ## I'm currently:
 - 🔭 working on some fun side projects and self study
 
 ## How to reach me: 
-- 📫 Visit my website www.sethwashere.com to view my Social profiles
+- 📫 Hit me up on LinkedIn!
 
 ## Languages and Tools
-- Java, Python, and SQL
-- JavaFX, Android Studio, MySQL, SQLite, Spring
+- Work in progress, ignore thise!
