@@ -1,14 +1,12 @@
 ### Hello World, I'm Seth 👋
 
 ## I am: 
-- a former IT Technician 
 - a current DevOps engineer
 
 ## I'm currently:
-- 🔭 working on some fun side projects and self study
+- Studying for my Certified Kubernetes Administrator exam
+- Working on some fun side projects and self-study
 
 ## How to reach me: 
-- 📫 Hit me up on LinkedIn @ https://www.linkedin.com/in/scmgustafson/ !
-
-## Languages and Tools
-- Work in progress, ignore this!
+- Visit my personal webpage - https://www.sethwashere.com
+- Hit me up on LinkedIn @ https://www.linkedin.com/in/scmgustafson/ !
