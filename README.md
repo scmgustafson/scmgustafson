@@ -1,7 +1,7 @@
 ### Hello World, I'm Seth 👋
 
 ## I am: 
-- a current DevOps engineer
+- a DevOps engineer focused on cloud infrastructure and automation
 
 ## I'm currently:
 - Studying for my Certified Kubernetes Administrator exam
