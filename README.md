@@ -5,8 +5,8 @@
 - a Certified Kubernetes Administrator
 
 ## I'm currently working on:
-- learning full-stack web development
-- earning the GitHub actions certification
+- the AWS CSAA certification
+- learning game development with Unity
 
 ## How to reach me: 
 - Learn more about me @ https://www.sethwashere.com
