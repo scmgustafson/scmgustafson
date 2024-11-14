@@ -2,10 +2,10 @@
 
 ## I am: 
 - a DevOps engineer focused on cloud infrastructure and automation
-- a Certified Kubernetes Administrator
+- a Certified Kubernetes Administrator and an AWS Certified Solutions Architect Associate
 
 ## I'm currently working on:
-- the AWS CSAA certification
+- Some fun side projects (serverless and gen-ai based)
 - learning game development with Unity
 
 ## How to reach me: 
