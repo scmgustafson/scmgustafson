@@ -6,6 +6,8 @@
 
 ## I'm currently working on:
 - Learning full stack development via Next.JS and Node
+- Polishing Platform Engineering skills
 
 ## Completed Projects
 - https://www.listyy.net/
+- AWS Multi-environment Terraform deployment (https://github.com/scmgustafson/aws-multi-env-terraform)
