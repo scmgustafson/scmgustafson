@@ -5,8 +5,9 @@
 - a Certified Kubernetes Administrator and an AWS Certified Solutions Architect Associate
 
 ## I'm currently working on:
-- Learning full stack development via Next.JS and Node
-- Polishing Platform Engineering skills
+- Continued work on DevOps skills
+- Fullstack Web Dev with NextJS
+- Game development for fun 👾
 
 ## Completed Projects
 - NextJS to-do list app via Vercel (https://www.listyy.net/)
