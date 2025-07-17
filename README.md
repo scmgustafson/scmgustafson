@@ -9,5 +9,6 @@
 - Polishing Platform Engineering skills
 
 ## Completed Projects
-- https://www.listyy.net/
-- AWS Multi-environment Terraform deployment (https://github.com/scmgustafson/aws-multi-env-terraform)
+- NextJS to-do list app via Vercel (https://www.listyy.net/)
+- AWS multi-environment terraform deployment (https://github.com/scmgustafson/aws-multi-env-terraform)
+- Unity Frogger clone in C# (https://sethrow.itch.io/endless-frogger)
