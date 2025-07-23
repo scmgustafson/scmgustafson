@@ -10,6 +10,12 @@
 - Game development for fun 👾
 
 ## Completed Projects
+### DevOps
+- Ansible on AL2023 via Terraform (https://github.com/scmgustafson/linux-ansible-via-terraform)
+- AWS multi-environment Terraform Deployment (https://github.com/scmgustafson/aws-multi-env-terraform)
+
+### Web Dev
 - NextJS to-do list app via Vercel (https://www.listyy.net/)
-- AWS multi-environment terraform deployment (https://github.com/scmgustafson/aws-multi-env-terraform)
+
+### Game Dev
 - Unity Frogger clone in C# (https://sethrow.itch.io/endless-frogger)
