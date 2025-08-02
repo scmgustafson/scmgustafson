@@ -11,8 +11,9 @@
 
 ## Completed Projects
 ### DevOps
-- Ansible on AL2023 via Terraform (https://github.com/scmgustafson/linux-ansible-via-terraform)
-- AWS multi-environment Terraform Deployment (https://github.com/scmgustafson/aws-multi-env-terraform)
+- Code2Chart: Automated MermaidJS Diagram Generator via OpenAI [GitHub Action](https://github.com/marketplace/actions/code2chart) [CLI Tool](https://github.com/scmgustafson/code2chart)
+- Ansible on AL2023 via Terraform [Main Repo](https://github.com/scmgustafson/linux-ansible-via-terraform)
+- AWS multi-environment Terraform Deployment [Main Repo](https://github.com/scmgustafson/aws-multi-env-terraform)
 
 ### Web Dev
 - NextJS to-do list app via Vercel (https://www.listyy.net/)
