@@ -4,7 +4,7 @@
 a DevOps engineer at a startup based out of San Francisco. AWS, Kubernetes, Github, and Terraform certified 🤙
 
 ## I'm currently working on:
-DevOps and infrastructure related personal projects and some web development with NextJS. 
+Platform/infrastructure related personal projects and some web development with NextJS. 
 
 Interested in learning more? Check out some of my completed projects below.
 
