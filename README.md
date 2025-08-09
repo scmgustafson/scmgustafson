@@ -1,13 +1,12 @@
 ### Hello World, I'm Seth 👋
 
 ## I am: 
-- a DevOps engineer focused on cloud infrastructure and automation
-- a Certified Kubernetes Administrator and an AWS Certified Solutions Architect Associate
+a DevOps engineer at a startup based out of San Francisco. AWS, Kubernetes, Github, and Terraform certified 🤙
 
 ## I'm currently working on:
-- Continued work on DevOps skills
-- Fullstack Web Dev with NextJS
-- Game development for fun 👾
+DevOps and infrastructure related personal projects and some web development with NextJS. 
+
+Interested in learning more? Check out some of my completed projects below.
 
 ## Completed Projects
 ### DevOps
